@@ -1,0 +1,40 @@
+.myhead {
+    width:100%;
+    height:70px;
+    background-color: darkgrey;
+    float: left;
+    padding: 20px;
+
+}
+
+.myuser {
+    float: right;
+    margin-right: 30px;
+}
+
+.myside {
+    background-color: brown;
+    width: 30%;
+    float: left;
+    height:500px;
+}
+
+.myqd {
+    float: left;
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+
+.myitem {
+    background-color: blueviolet;
+    float: right;
+    width:70%;
+    height: 500px;
+}
+
+.finished {
+    text-decoration:line-through;
+  }
